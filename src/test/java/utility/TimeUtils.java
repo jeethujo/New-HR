@@ -2,6 +2,6 @@ package utility;
 
 public class TimeUtils {
 
-	public static int timepage = 60;
+	public static int timepage = 30;
 	
 }
